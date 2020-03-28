@@ -1,0 +1,161 @@
+
+/*-- start daigonistic page --*/
+#digonisticBanar2 {
+    background-color: #BC1526;
+    position: relative;
+  }
+  
+  #digonisticBanar2 img#digonisbanrImage {
+    width: 70%;
+    height: 100vh;
+    position: relative;
+    left: -30px;
+  }
+  
+  #digonisticBanar2 .digonisticBanar2Content {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+    left: 0;
+  }
+  
+  #digonisticBanar2 .digonisticBanar2Content h3 {
+    font-family: gbold;
+    font-size: 35px;
+    color: #fff;
+    text-transform: uppercase;
+  }
+  
+  #digonisticBanar2 .digonisticBanar2Content p {
+    font-family: gbook;
+    font-size: 15px;
+    color: #fff;
+    line-height: 22px;
+    width: 65%;
+    margin-top: 15px;
+  }
+  
+  #digonisticBanar2 .digonisticBanar2Content a {
+    display: inline-block;
+    padding: 14px 75px;
+    background: #242424;
+    font-family: gm;
+    font-size: 14px;
+    color: #fff;
+    border-radius: 4px;
+    margin-top: 25px;
+  }
+  
+  #digonisticBanar2 .digonisticBanar2Content a:hover {
+    background: #fff;
+    color: #242424;
+    transform: translateY(-4px);
+    box-shadow: 0px 1px 7px rgba(0, 0, 0, 0.2);
+  }
+  
+  #digonisticBanar2Mobile {
+    display: none;
+  }
+  
+  #digonisticBanar2Mobile .digonisticBanar2MobileContent {
+    padding: 40px 20px;
+    background: #FEFAFB;
+  }
+  
+  #digonisticBanar2Mobile .digonisticBanar2MobileContent h3 {
+    font-family: gbold;
+    font-size: 30px;
+    color: #D23939;
+    text-transform: uppercase;
+    line-height: 45px;
+  }
+  
+  #digonisticBanar2Mobile .digonisticBanar2MobileContent h3 span {
+    font-family: gm;
+    color: #242424;
+    font-size: 34px;
+  }
+  
+  #digonisticBanar2Mobile .digonisticBanar2MobileContent p {
+    font-family: gbook;
+    font-size: 13px;
+    color: #686868;
+    margin-top: 20px;
+  }
+  
+  #digonisticBanar2Mobile .digonisticBanar2MobileContent a {
+    display: block;
+    width: 100%;
+    padding: 13px 0px;
+    background: #242424;
+    color: #fff;
+    font-family: gm;
+    font-size: 15px;
+    text-align: center;
+    border-radius: 3px;
+    margin-top: 40px;
+  }
+  
+  /*-- start digonistic main area --*/
+  #disgonisticMain {
+    padding: 100px 0px 50px 0px;
+    background: #FFF6F6;
+  }
+  
+  #disgonisticMain .disgonisticMainItem {
+    margin-bottom: 60px;
+  }
+  
+  #disgonisticMain .disgonisticMainItem .disgonisticMainItemContent {
+    padding-top: 30px;
+  }
+  
+  #disgonisticMain .disgonisticMainItem .disgonisticMainItemContent h3 {
+    font-family: gm;
+    font-size: 25px;
+    color: #D23939;
+    margin-bottom: 4px;
+  }
+  
+  #disgonisticMain .disgonisticMainItem .disgonisticMainItemContent p {
+    font-family: gbook;
+    font-size: 15px;
+    color: #5C5C5C;
+    margin-top: 10px;
+  }
+  
+  /*-- start digonistInfoBottom --*/
+  #digonistInfoBottom {
+    padding: 50px 0px;
+    background: #fff;
+  }
+  
+  #digonistInfoBottom .digonistInfoBottomContent h3 {
+    font-family: gm;
+    font-size: 20px;
+    color: #707070;
+  }
+  
+  #digonistInfoBottom .digonistInfoBottomContent a {
+    display: inline-block;
+    padding: 13px 50px;
+    background: #242424;
+    color: #fff;
+    font-family: gm;
+    font-size: 14px;
+    color: #fff;
+    border-radius: 4px;
+    margin-top: 30px;
+  }
+  
+  #digonistInfoBottom .digonistInfoBottomContent a:hover {
+    background: #D23939;
+    color: #fff;
+    transform: translateY(-6px);
+    box-shadow: 0px 1px 7px rgba(0, 0, 0, 0.2);
+  }
+  

@@ -1,0 +1,950 @@
+/* XL (laptop) Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {}
+
+@media (min-width: 1200px) and (max-width: 1300px) {}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+    #progrmaMain .progrmaMainContiner .programItemManContaier .programMainItem .programMainItemContent {
+        padding-left: 23px;
+    }
+
+    #progrmaMain .progrmaMainContiner .programItemManContaier .programMainItem .programMainItemContent p {
+        font-size: 13px;
+        line-height: 21px;
+        width: 84%;
+    }
+
+    #digonisticBanar2 .digonisticBanar2Content p {
+        width: 79%;
+    }
+
+    #computerTestBottom .computerTestBottomContainer .computerTestBottomItem h4 {
+        width: 99%;
+    }
+
+    #canadaImigrationTop .canadaImigrationTop_container .canadaImigrationTop_left .canadaImigrationTop_left_title h5 {
+        font-size: 14px;
+        width: 100%;
+        line-height: 23px;
+    }
+
+    #canadaImigrationTop .canadaImigrationTop_container .canadaImigrationTop_left .canadaImigrationTop_left_title .canadaImigrationTop_left_item_container .canadaImigrationTop_left_item ul li {
+        margin-bottom: 24px;
+        font-size: 11px;
+    }
+
+    #canad_calculator .canada_calculator_result h3 {
+        width: 30%;
+    }
+
+    #freetrailExperied .freetrailExperiedContent {
+        width: 70%;
+    }
+}
+
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    #header_top .menu .nav ul li a {
+        padding: 27px 1px;
+        font-size: 12px;
+        margin: 0px 3px;
+    }
+
+    #header_top .logo a img {
+        height: auto;
+        top: 0px;
+    }
+
+    #header_top .menu .nav ul li ul {
+        width: 200px;
+        padding: 8px 20px;
+    }
+
+    #header_top .menu .nav ul li ul li a {
+        font-size: 12px;
+    }
+
+    #footer .footer_social .social ul li a .fab {
+        margin-right: 4px;
+    }
+
+    #footer .footer_social .link ul li a {
+        font-size: 12px;
+        width: 128px;
+    }
+
+    #progrmaMain .progrmaMainContiner .programItemManContaier .programMainItem .programMainItemContent {
+        padding-left: 20px;
+    }
+
+    #progrmaMain .progrmaMainContiner .programItemManContaier .programMainItem .programMainItemContent p {
+        font-size: 12px;
+        line-height: 19px;
+    }
+
+    #digonisticBanar2 .digonisticBanar2Content h3 {
+        font-size: 25px;
+    }
+
+    #digonisticBanar2 .digonisticBanar2Content p {
+        font-size: 13px;
+        line-height: 21px;
+        width: 100%;
+        margin-top: 7px;
+    }
+
+    #digonisticBanar2 img#digonisbanrImage {
+        height: 86vh;
+    }
+
+    #computerFeater .computerFeaterContainer .computerFeaterItem .computerFeaterItemContent p {
+        font-size: 15px;
+    }
+
+    #computerTestBottom .computerTestBottomContainer .computerTestBottomItem h4 {
+        font-size: 13px;
+        width: 100%;
+        line-height: 19px;
+    }
+
+    #canadaImigrationTop .canadaImigrationTop_container .canadaImigrationTop_left {
+        padding: 10px 20px;
+    }
+
+    #canadaImigrationTop .canadaImigrationTop_container .canadaImigrationTop_left .canadaImigrationTop_left_title h1 {
+        font-size: 29px;
+        margin-top: 1px;
+    }
+
+    #canadaImigrationTop .canadaImigrationTop_container .canadaImigrationTop_left .canadaImigrationTop_left_title h5 {
+        font-size: 12px;
+        margin-top: 5px;
+        width: 100%;
+        line-height: 20px;
+    }
+
+    #canadaImigrationTop .canadaImigrationTop_container .canadaImigrationTop_left .canadaImigrationTop_left_title .canadaImigrationTop_left_item_container {
+        margin-top: 10px;
+    }
+
+    #canadaImigrationTop .canadaImigrationTop_container .canadaImigrationTop_left .canadaImigrationTop_left_title .canadaImigrationTop_left_item_container .canadaImigrationTop_left_item ul li {
+        margin-bottom: 37px;
+        font-family: gm;
+        font-size: 10px;
+        color: #242424;
+    }
+
+    #canadaImigrationTop .canadaImigrationTop_container .canadaImigrationTop_left .canadaImigrationTop_left_title .canadaImigrationTop_left_item_container .canadaImigrationTop_left_item ul li img {
+        margin-right: 10px;
+        display: block;
+        float: left;
+    }
+
+    #canadaImigrationTop .canadaImigrationTop_container .canadaImigrationTop_right .calcultefeeBtn a {
+        margin-top: 10px;
+    }
+
+    #canadaImigrationTop .canadaImigrationTop_container .canadaImigrationTop_right .enroll_btn a {
+        margin-top: 13px;
+    }
+
+    #weareDifernet .weareDifernet_main .weareDifernet_item h4 {
+        font-size: 11px;
+    }
+
+    #weareDifernet .weareDifernet_main .weareDifernet_item h5 {
+        font-family: gbook;
+        font-size: 11px;
+        color: #242424;
+        line-height: 16px;
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 3px;
+    }
+
+    .weareDifernet_item.text-center img {
+        height: 35px;
+    }
+
+    #weareDifernet .weareDifernet_main .weareDifernet_item3 {
+        padding-top: 0px;
+    }
+
+    #weareDifernet .weareDifernet_main .weareDifernet_item3 h4 {
+        margin-top: 25px;
+    }
+
+    #canad_calculator .canad_calculator_Main {
+        width: 78%;
+    }
+
+    #canad_calculator .canada_calculator_result h3 {
+        width: 40%;
+    }
+
+    #canad_calculator .canada_calculator_recomeded .canada_calculator_recomededitem_main .canada_calculator_recomededitem .canada_calculator_recomededitemContent h5 {
+        font-family: gbook;
+        font-size: 14px;
+        margin-top: 10px;
+    }
+
+    #canad_calculator .canada_calculator_recomeded .canada_calculator_recomededitem_main .canada_calculator_recomededitem .canada_calculator_recomededitemContent h3 {
+        font-size: 19px;
+    }
+
+    #canad_calculator .canada_calculator_recomeded .canada_calculator_recomededitem_main .canada_calculator_recomededitem .canada_calculator_recomededitemContent p {
+        font-size: 13px;
+        width: 100%;
+    }
+
+    #canad_calculator .canada_calculator_recomeded .canada_calculator_recomededTop h3 {
+        font-size: 20px;
+    }
+
+    #canadaInfobottom .canadaInfobottom_content h3 {
+        font-size: 17px;
+        width: 58%;
+        margin: 0 auto;
+    }
+
+    #freetrailExperied .freetrailExperiedContent {
+        width: 80%;
+    }
+
+
+
+
+
+
+
+
+}
+
+@media (max-width: 767px) {}
+
+/*-- Phone Landscape --*/
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    #header_top {
+        display: none;
+    }
+
+    #mobile_header {
+        display: block;
+    }
+
+    #progrmaMain .progrmaMainContiner .programItemManContaier .programMainItem .programMainItemBtn a {
+        width: 60%;
+        right: 0px;
+        margin: 0 auto;
+        margin-top: 20px;
+    }
+
+    #progrmaMain .progrmaMainContiner .programItemManContaier .programMainItem .programMainItemContent p {
+        font-size: 12px;
+        line-height: 20px;
+        margin-top: 4px;
+        width: 100%;
+    }
+
+    #progrmaMain .progrmaMainContiner>h3 {
+        font-size: 21px;
+    }
+
+    #progrmaMain .progrmaMainContiner .programItemManContaier {
+        margin-top: 30px;
+    }
+
+    #digonisticBanar2 img#digonisbanrImage {
+        width: 74%;
+        height: 67vh;
+        position: relative;
+        left: -90px;
+    }
+
+    #digonisticBanar2 .digonisticBanar2Content h3 {
+        font-size: 23px;
+    }
+
+    #digonisticBanar2 .digonisticBanar2Content p {
+        font-size: 12px;
+        line-height: 18px;
+        width: 100%;
+        margin-top: 9px;
+    }
+
+    #digonisticBanar2 .digonisticBanar2Content a {
+        margin-top: 14px;
+    }
+
+    #disgonisticMain .disgonisticMainItem .disgonisticMainItemContent {
+        padding-top: 0px;
+    }
+
+    #disgonisticMain .disgonisticMainItem .disgonisticMainItemContent h3 {
+        font-size: 16px;
+        margin-bottom: 0px;
+    }
+
+    #disgonisticMain .disgonisticMainItem .disgonisticMainItemContent p {
+        font-size: 12px;
+        margin-top: 8px;
+    }
+
+    #digonistInfoBottom .digonistInfoBottomContent h3 {
+        font-size: 14px;
+    }
+
+    #digonistInfoBottom .digonistInfoBottomContent a {
+        padding: 13px 70px;
+        margin-top: 15px;
+    }
+
+    #conputerTestBanar #conputerTestBanarImage {
+        height: 100%;
+    }
+
+    #conputerTestBanar .conputerTestBanarContent {
+        padding: 150px 0px;
+    }
+
+    #conputerTestBanar .conputerTestBanarContent h3 {
+        font-size: 24px;
+    }
+
+    #conputerTestBanar .conputerTestBanarContent p {
+        font-size: 13px;
+        width: 49%;
+        margin-top: 10px;
+        line-height: 20px;
+    }
+
+    #conputerTestBanar {
+        min-height: auto;
+    }
+
+    #aboutComputerTest .aboutComputerTestContent p {
+        font-size: 14px;
+        width: 90%;
+        margin-top: 20px;
+        line-height: 24px;
+    }
+
+    #computerFeater .computerFeaterContainer .computerFeaterItem .computerFeaterItemContent p {
+        font-size: 12px;
+    }
+
+    #computerTestBottom .computerTestBottomContainer .computerTestBottomItem {
+        margin-bottom: 20px;
+    }
+
+    #computerTestBottom .computerTestBottomContainer .computerTestBottomItem h4 {
+        font-size: 15px;
+        width: 100%;
+    }
+
+    #canadaImigrationTop {
+        padding: 50px 0px;
+        background: #fff;
+    }
+
+    #canadaImigrationTop .canadaImigrationTop_container .canadaImigrationTop_left {
+        padding: 0px;
+        box-shadow: none;
+    }
+
+    .canadaImigrationTop_right {
+        display: none !important;
+    }
+
+    #weareDifernet {
+        padding: 50px 0px;
+    }
+
+    #weareDifernet .weareDifernet_main .weareDifernet_item {
+        margin-bottom: 30px;
+    }
+
+    #weareDifernet .weareDifernet_main .weareDifernet_item h5 {
+        font-family: gbook;
+        font-size: 12px;
+        color: #242424;
+        line-height: 20px;
+        width: 93%;
+        margin: 0 auto;
+        margin-top: 6px;
+    }
+
+    #how_works_canada .how_works_canada_main .how_works_canada_item .how_works_canada_item_text h4 {
+        font-size: 13px;
+        margin-bottom: 3px;
+    }
+
+    #how_works_canada .how_works_canada_main .how_works_canada_item .how_works_canada_item_text p {
+        font-size: 11px;
+        margin-top: 5px;
+        width: 100%;
+    }
+
+    #how_works_canada .how_work_canada_bottom .how_work_canada_bottom_content p {
+        width: 82%;
+    }
+
+    .success_stories_canada_item {
+        margin-bottom: 30px;
+    }
+
+    #success_stories_canada .success_stories_canada_main_container .success_stories_canada_item .info_bottom {
+        bottom: 16px;
+    }
+
+    #canad_calculator .canad_calculator_top p {
+        width: 82%;
+    }
+
+    #canad_calculator .canad_calculator_Main {
+        width: 100%;
+    }
+
+    #canad_calculator .canada_calculator_result h3 {
+        width: 54%;
+    }
+
+    #canad_calculator .canada_calculator_recomeded .canada_calculator_recomededTop h3 {
+        font-size: 17px;
+    }
+
+    #canad_calculator .canada_calculator_recomeded .canada_calculator_recomededitem_main .canada_calculator_recomededitem .canada_calculator_recomededitem_btn a {
+        display: inline-block;
+        padding: 12px 72px;
+        border: 1px solid #242424;
+        font-family: gm;
+        font-size: 14px;
+        border-radius: 4px;
+        margin: 0 auto;
+        display: table;
+        margin-top: 22px;
+    }
+
+    #canad_calculator .canada_calculator_recomeded .canada_calculator_recomededitem_main .canada_calculator_recomededitem .canada_calculator_recomededitemContent p {
+        width: 100%;
+    }
+
+    #canadaInfobottom .canadaInfobottom_content h3 {
+        font-size: 17px;
+        width: 70%;
+        margin: 0 auto;
+    }
+
+    #freetrailExperied .freetrailExperiedContent {
+        width: 90%;
+    }
+}
+
+
+
+/* Extra small Device. */
+@media (max-width: 575px) {
+    .header_home {
+        display: none;
+    }
+
+    #header_top {
+        display: none;
+    }
+
+    #mobile_header {
+        display: block;
+    }
+
+    #sidebar_menu .sidebar_menu_container {
+        width: 100%;
+    }
+
+    #mobile_footer {
+        display: block;
+    }
+
+    #footer {
+        display: none;
+    }
+
+    .sidebar_bottom ul {
+        display: none;
+    }
+
+    #sidebar_menu .sidebar_menu_container .sidebar_bottom {
+        background: #F3F3F3;
+        padding: 0px 20px;
+    }
+
+    #mobile_contact_popup {
+        display: block;
+    }
+
+    #progrmaMain .progrmaMainContiner .programItemManContaier {
+        margin-top: 20px;
+    }
+
+    .mobileHide {
+        display: none !important;
+    }
+
+    #progrmaMain .progrmaMainContiner .programItemManContaier .programMainItem .programMainItemContent h4 {
+        font-size: 16px;
+    }
+
+    #progrmaMain .progrmaMainContiner .programItemManContaier .programMainItem .programMainItemContent p {
+        font-size: 9px;
+        line-height: 14px;
+        margin-top: 4px;
+        width: 100%;
+    }
+
+    .programMainItemImage img {
+        margin-top: 5px;
+        position: relative;
+        right: 5px;
+    }
+
+    .mshow {
+        display: block;
+    }
+
+    #progrmaMain .progrmaMainContiner .programItemManContaier .programMainItem .programMainItemBtn a {
+        width: auto;
+        text-align: center;
+        border: none;
+        font-family: gm;
+        font-size: 14px;
+        color: #242424;
+        padding: 0px 10px;
+        border-radius: 4px;
+        position: relative;
+        right: 0px;
+        position: absolute;
+        right: 12px;
+        bottom: -22px;
+    }
+
+    #progrmaMain .progrmaMainContiner>h3 {
+        font-size: 20px;
+    }
+
+    #digonisticBanar2 {
+        display: none;
+    }
+
+    #digonisticBanar2Mobile {
+        display: block;
+    }
+
+    #disgonisticMain .disgonisticMainItem .disgonisticMainItemContent p {
+        font-size: 13px;
+        line-height: 25px;
+    }
+
+    #digonistInfoBottom .digonistInfoBottomContent h3 {
+        font-size: 18px;
+        line-height: 25px;
+    }
+
+    #digonistInfoBottom .digonistInfoBottomContent a {
+        display: block;
+        padding: 13px 0px;
+    }
+
+    #conputerTestBanar {
+        display: none;
+    }
+
+    #conputerTestBanarMobile {
+        display: block;
+    }
+
+    #aboutComputerTest {
+        padding: 40px 0px;
+        background: #FEFAFB;
+    }
+
+    #aboutComputerTest .aboutComputerTestContent p {
+        font-size: 13px;
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 20px;
+        line-height: 22px;
+    }
+
+    #computerFeater {
+        padding: 60px 0px;
+        background: #FEFAFB;
+    }
+
+    #computerFeater .computerFeaterContainer .computerFeaterItem {
+        margin-bottom: 70px;
+    }
+
+    #computerFeater .computerFeaterContainer .computerFeaterItem .computerFeaterItemContent p {
+        font-size: 16px;
+        text-align: center;
+        margin-top: 28px;
+    }
+
+    #computerTestBottom .computerTestBottomContainer .computerTestBottomItem h4 {
+        width: 91%;
+    }
+
+    #computerTestBottom .computerTestBottomContainer .computerTestBottomItem {
+        margin-bottom: 30px;
+    }
+
+    #canadaImigrationMobileBanar {
+        display: block;
+    }
+
+    #canadaImigrationTop {
+        padding: 20px 0px;
+        background: #fff;
+        overflow: hidden;
+    }
+
+    #canadaImigrationTop .canadaImigrationTop_container {
+        padding: 0px;
+    }
+
+    #canadaImigrationTop .canadaImigrationTop_container .canadaImigrationTop_left {
+        padding: 0px;
+        box-shadow: none;
+    }
+
+    .canadaImigrationTop_right {
+        display: none !important;
+    }
+
+    .hide_mobile {
+        display: none;
+    }
+
+    .mpr15 {
+        padding-right: 15px !important;
+    }
+
+    #canadaImigrationTop .canadaImigrationTop_container .canadaImigrationTop_left .canadaImigrationTop_left_title h5 {
+        font-size: 12px;
+        margin-top: 5px;
+        width: 100%;
+        line-height: 20px;
+    }
+
+    #canadaImigrationTop .canadaImigrationTop_container .canadaImigrationTop_left .canadaImigrationTop_left_title .canadaImigrationTop_left_item_container .canadaImigrationTop_left_item ul li {
+        font-size: 9px;
+        margin-bottom: 30px;
+    }
+
+    #canadaImigrationTop .canadaImigrationTop_container .canadaImigrationTop_left .canadaImigrationTop_left_title .canadaImigrationTop_left_item_container .canadaImigrationTop_left_item ul li img {
+        margin-right: 10px;
+        display: block;
+        float: left;
+        margin-right: 9px;
+    }
+
+    .canadaImigrationTop_left_item2 img {
+        padding-left: 4px;
+    }
+
+    .canadaImigrationTop_left_item3 img {
+        padding-left: 10px;
+    }
+
+    .canadaImigrationTop_left_item5 {
+        margin-top: 44px !important;
+    }
+
+    .canadaImigrationTop_left_item6 {
+        margin-top: 44px !important;
+    }
+
+    #canadaImigrationTop .canadaImigrationTop_container .canadaImigrationTop_left .canadaImigrationTop_left_title .canadaImigrationTop_left_item_container .canadaImigrationTop_left_item h5 {
+        font-size: 15px;
+    }
+
+    #canadaImigrationMobilebtn {
+        display: block;
+    }
+
+    #weareDifernet {
+        background: #fff;
+    }
+
+    .weareDifernet_item.text-center {
+        text-align: left !important;
+    }
+
+    .weareDifernet_item.text-center img {
+        height: 42px;
+    }
+
+    #weareDifernet .weareDifernet_main .weareDifernet_item {
+        margin-bottom: 30px;
+    }
+
+    #weareDifernet .weareDifernet_main .weareDifernet_item h5 {
+        font-size: 14px;
+        line-height: 20px;
+        width: 100%;
+    }
+
+    #weareDifernet .weareDifernet_main .weareDifernet_item3 h4 {
+        margin-top: 16px;
+    }
+
+    #weareDifernet .weareDifernet_main .weareDifernet_item3 {
+        padding-top: 0px;
+    }
+
+    #weareDifernet .weareDifernet_top h3 {
+        font-size: 17px;
+    }
+
+
+
+
+
+
+
+    #how_works_canada .how_works_canada_top h3 {
+        font-family: gm;
+        font-size: 18px;
+    }
+
+    #how_works_canada .how_works_canada_top p {
+        font-size: 11px;
+        margin-top: 3px;
+    }
+
+    #how_works_canada {
+        padding: 20px 0px;
+        background: #fff;
+    }
+
+    #how_works_canada .how_works_canada_main {
+        margin-top: 30px;
+    }
+
+    #how_works_canada .how_works_canada_main .how_works_canada_item .how_works_canada_item_text {
+        padding-left: 0px;
+    }
+
+    #how_works_canada .how_works_canada_main .how_works_canada_item .how_works_canada_item_text h4 {
+        font-family: gm;
+        font-size: 14px;
+        color: #888888;
+        margin-bottom: 10px;
+    }
+
+    #how_works_canada .how_works_canada_main .how_works_canada_item .how_works_canada_item_text p {
+        font-size: 11px;
+        margin-top: 0px;
+        width: 100%;
+    }
+
+    .how_works_canada_item_img.how_works_item2_img1 img {
+        height: 67px;
+        position: relative;
+        left: 13px;
+    }
+
+    .how_works_canada_item_img.how_works_item2_img2 img {
+        height: 62px;
+        position: relative;
+        left: -22px;
+    }
+
+    #how_works_canada .how_works_canada_main .how_works_canada_item .how_works_canada_item_text_2 {
+        padding-left: 0px !important;
+    }
+
+    #how_works_canada .how_works_canada_main .how_works_canada_item {
+        padding: 47px 0px;
+    }
+
+    .how_works_canada_item_img.text-right img {
+        height: 45px;
+    }
+
+    .how_works_canada_item_img.how_works_item2_img2.text-center img {
+        height: 45px;
+    }
+
+    #how_works_canada .how_works_canada_main .how_works_canada_item .how_works_item_text_2 {
+        padding-left: 0px !important;
+    }
+
+    #how_works_canada .how_works_canada_main .how_works_canada_item .how_works_canada_item_img .number:after {
+        height: 79px;
+    }
+
+    #how_works_canada .how_works_canada_main .how_works_canada_item .how_works_canada_item_img .number_2:before {
+        height: 98px;
+        top: -99px;
+    }
+
+    #how_works_canada .how_works_canada_main .how_works_canada_item .how_works_canada_item_img .number_2:after {
+        height: 97px !important;
+    }
+
+    #how_works_canada .how_works_canada_main .how_works_canada_item .how_works_canada_item_img .number_3:before {
+        height: 98px;
+        top: -99px;
+    }
+
+    #how_works_canada .how_works_canada_main .how_works_canada_item .how_works_canada_item_img .number_3:after {
+        height: 99px !important;
+    }
+
+    #how_works_canada .how_work_canada_bottom .how_work_canada_bottom_content p {
+        font-size: 11px;
+        line-height: 17px;
+        width: 100%;
+        margin-top: 5px;
+    }
+
+    #how_works_canada .how_work_canada_bottom .how_work_canada_bottom_content h3 {
+        font-family: gm;
+        font-size: 14px;
+        color: #242424;
+    }
+
+    .mhide {
+        display: none !important;
+    }
+
+    #success_stories_canada {
+        padding: 30px 0px;
+        background: #fff;
+    }
+
+    #success_stories_canada .stories_canada_top h3 {
+        font-size: 19px;
+    }
+
+    #success_stories_canada .stories_canada_top p {
+        font-size: 12px;
+        margin-top: 4px;
+    }
+
+    #success_stories_canada .success_stories_canada_main_container .stories_canada_button a {
+        display: block;
+        padding: 15px 0px;
+        text-align: center;
+    }
+
+    #canad_calculator .canad_calculator_top h3 {
+        font-size: 18px;
+    }
+
+    #canad_calculator {
+        padding: 40px 0px;
+    }
+
+    #canad_calculator .canad_calculator_top p {
+        font-size: 13px;
+        width: 100%;
+        margin-top: 6px;
+    }
+
+    #canad_calculator .canad_calculator_Main {
+        width: 100%;
+        padding: 40px 20px;
+    }
+
+    .calculatorInput.text-center {
+        margin-bottom: 23px;
+    }
+
+    #canad_calculator .canada_calculator_result h3 {
+        width: 95%;
+        padding: 16px 0px;
+        margin-top: 23px;
+    }
+
+    #canad_calculator .canada_calculator_recomeded .canada_calculator_recomededTop h3 {
+        font-size: 16px;
+    }
+
+    #canad_calculator .canada_calculator_recomeded .canada_calculator_recomededitem_main .canada_calculator_recomededitem {
+        text-align: center;
+    }
+
+    #canad_calculator .canada_calculator_recomeded .canada_calculator_recomededitem_main .canada_calculator_recomededitem .canada_calculator_recomededitemContent p {
+        width: 100%;
+    }
+
+    #canad_calculator .canada_calculator_recomeded .canada_calculator_recomededitem_main .canada_calculator_recomededitem .canada_calculator_recomededitem_btn a {
+        display: block;
+        padding: 12px 0px;
+        margin-top: 24px;
+    }
+
+    #canad_calculator .canada_calculator_recomeded .canada_calculator_recomededitem_main .canada_calculator_recomededitem .canada_calculator_recomededitemContent h5 {
+        font-family: gbook;
+        font-size: 15px;
+    }
+
+    #canadaInfobottom .canadaInfobottom_content h3 {
+        font-size: 16px;
+    }
+
+    #canadaInfobottom .canadaInfobottom_content a {
+        display: block;
+        padding: 12px 0px;
+        text-align: center;
+    }
+
+    .mshow {
+        display: block !important;
+    }
+
+    #freetrailExperied {
+        background: #FEFAFB;
+    }
+
+    #freetrailExperied .freetrailExperiedContent {
+        box-shadow: none;
+        width: 100%;
+        padding: 89px 20px;
+        border-radius: 5px;
+    }
+
+    #freetrailExperied .freetrailExperiedContent p {
+        width: 100%;
+    }
+
+    #freetrailExperied .freetrailExperiedContent a {
+        display: block;
+        padding: 13px 0px;
+        background: #242424;
+        font-family: gm;
+        font-size: 12px;
+        color: #fff;
+        margin-top: 100px;
+        border-radius: 4px;
+    }
+
+    #freetrailExperied #freetrailinfoClose {
+        right: 20px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+}

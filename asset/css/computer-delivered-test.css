@@ -1,0 +1,248 @@
+
+/*-- start computer test page style --*/
+#conputerTestBanar {
+    position: relative;
+    min-height: 100vh;
+  }
+  
+  #conputerTestBanar #conputerTestBanarImage {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+  }
+  
+  #conputerTestBanar .conputerTestBanarContent {
+    padding: 200px 0px;
+  }
+  
+  #conputerTestBanar .conputerTestBanarContent h3 {
+    font-family: gbold;
+    font-size: 32px;
+    color: #D23939;
+    margin-bottom: 4px;
+  }
+  
+  #conputerTestBanar .conputerTestBanarContent h3 span {
+    color: #242424;
+  }
+  
+  #conputerTestBanar .conputerTestBanarContent p {
+    font-family: gm;
+    font-size: 15px;
+    color: #3D3D3D;
+    width: 45%;
+    margin-top: 20px;
+    line-height: 23px;
+  }
+  
+  #conputerTestBanarMobile {
+    display: none;
+  }
+  
+  #conputerTestBanarMobile .conputerTestBanarMobileContent {
+    padding: 40px 20px;
+    background: #FEFAFB;
+  }
+  
+  #conputerTestBanarMobile .conputerTestBanarMobileContent h3 {
+    font-family: gbold;
+    font-size: 25px;
+    color: #D23939;
+    margin-bottom: 4px;
+  }
+  
+  #conputerTestBanarMobile .conputerTestBanarMobileContent h3 span {
+    color: #242424;
+  }
+  
+  #conputerTestBanarMobile .conputerTestBanarMobileContent p {
+    font-family: gbook;
+    font-size: 14px;
+    margin-top: 20px;
+    color: #686868;
+    line-height: 24px;
+  }
+  
+  #aboutComputerTest {
+    padding: 70px 0px;
+    background: #fff;
+  }
+  
+  #aboutComputerTest .aboutComputerTestContent h3 {
+    font-family: gbold;
+    color: #242424;
+    font-size: 25px;
+  }
+  
+  #aboutComputerTest .aboutComputerTestContent p {
+    font-family: gbook;
+    font-size: 15px;
+    color: #242424;
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 20px;
+    line-height: 27px;
+  }
+  
+  #aboutComputerTest .aboutComputerTestContent p span {
+    font-family: gm;
+    color: #242424;
+  }
+  
+  #computerFeater {
+    padding: 0px 0px 50px 0px;
+    background: #fff;
+  }
+  
+  #computerFeater .computerFeaterTop h3 {
+    font-family: gbold;
+    color: #242424;
+    font-size: 25px;
+  }
+  
+  #computerFeater .computerFeaterContainer {
+    margin-top: 50px;
+  }
+  
+  #computerFeater .computerFeaterContainer .computerFeaterItem {
+    margin-bottom: 30px;
+  }
+  
+  #computerFeater .computerFeaterContainer .computerFeaterItem .computerFeaterItemContent p {
+    font-family: gm;
+    font-size: 20px;
+    color: #242424;
+  }
+  
+  #computerTestBottom {
+    padding: 70px 0px;
+    background: #FFF6F6;
+  }
+  
+  #computerTestBottom .computerTestBottomTop h3 {
+    font-family: gbold;
+    font-size: 26px;
+    color: #242424;
+  }
+  
+  #computerTestBottom .computerTestBottomContainer {
+    margin-top: 50px;
+  }
+  
+  #computerTestBottom .computerTestBottomContainer .computerTestBottomItem {
+    background: #fff;
+    padding: 30px 20px 15px 20px;
+    border-radius: 6px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  #computerTestBottom .computerTestBottomContainer .computerTestBottomItem h4 {
+    font-family: gm;
+    font-size: 17px;
+    color: #242424;
+    width: 70%;
+    line-height: 23px;
+  }
+  
+  #computerTestBottom .computerTestBottomContainer .computerTestBottomItem p {
+    font-family: gbook;
+    font-size: 14px;
+    color: #242424b2;
+    margin-top: 15px;
+  }
+  
+  #computerTestBottom .computerTestBottomContainer .computerTestBottomItem a {
+    display: block;
+    width: 100%;
+    padding: 14px 0px;
+    background: #242424;
+    color: #fff;
+    border-radius: 4px;
+    margin-top: 25px;
+    text-align: center;
+    font-family: gm;
+    font-size: 14px;
+  }
+  
+  #computerTestBottom .computerTestBottomContainer .computerTestBottomItem a:hover {
+    background: #D23939;
+    color: #fff;
+    transform: translateY(-4px);
+    box-shadow: 0px 1px 7px rgba(0, 0, 0, 0.2);
+  }
+  
+  #freetrailExperied {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 99999999999999999;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    visibility: hidden;
+    transition: 0.4s;
+  }
+  
+  #freetrailExperied #freetrailinfoClose {
+    position: absolute;
+    top: 20px;
+    right: 40px;
+    font-size: 30px;
+    cursor: pointer;
+  }
+  
+  #freetrailExperied .freetrailExperiedContent {
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.2);
+    width: 40%;
+    padding: 89px 30px;
+    border-radius: 5px;
+  }
+  
+  #freetrailExperied .freetrailExperiedContent h3 {
+    font-family: gbold;
+    font-size: 23px;
+    color: #242424;
+  }
+  
+  #freetrailExperied .freetrailExperiedContent h3 span {
+    color: #D23939;
+  }
+  
+  #freetrailExperied .freetrailExperiedContent p {
+    font-family: gbook;
+    font-size: 14px;
+    color: #242424;
+    width: 65%;
+    margin: 0 auto;
+    margin-top: 20px;
+  }
+  
+  #freetrailExperied .freetrailExperiedContent a {
+    display: inline-block;
+    padding: 13px 30px;
+    background: #242424;
+    font-family: gm;
+    font-size: 12px;
+    color: #fff;
+    margin-top: 20px;
+    border-radius: 4px;
+  }
+  
+  #freetrailExperied .freetrailExperiedContent a:hover {
+    background: #D23939;
+    color: #fff;
+    transform: translateY(-4px);
+    box-shadow: 0px 1px 7px rgba(0, 0, 0, 0.2);
+  }
+  
+  #freetrailExperied.show {
+    opacity: 1;
+    visibility: visible;
+  }
+  

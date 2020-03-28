@@ -1,0 +1,841 @@
+
+/*-- start canada imigration page style --*/
+#canadaImigrationMobileBanar {
+    display: none;
+    overflow: hidden;
+    background: #F6F3F4;
+  }
+  
+  #canadaImigrationMobileBanar .canadaImigrationMobileBanarContent {
+    padding: 30px 0px;
+  }
+  
+  #canadaImigrationMobileBanar .canadaImigrationMobileBanarContent h5 {
+    font-family: gbold;
+    font-size: 12px;
+    color: #474747;
+  }
+  
+  #canadaImigrationMobileBanar .canadaImigrationMobileBanarContent h3 {
+    font-family: gm;
+    font-size: 21px;
+    color: #D23939;
+  }
+  
+  #canadaImigrationMobileBanar .canadaImigrationMobileBanarContent h3 span {
+    color: #242424;
+  }
+  
+  #canadaImigrationMobileBanar .canadaImigrationMobileBanarimage {
+    position: relative;
+  }
+  
+  #canadaImigrationMobileBanar .canadaImigrationMobileBanarimage a {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  #canadaImigrationTop {
+    padding: 80px 0px 40px;
+    background: #F9F7F7;
+    position: relative;
+    z-index: 1;
+  }
+  
+  #canadaImigrationTop:after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 69%;
+    content: "";
+    background: #fff;
+    z-index: -1;
+  }
+  
+  #canadaImigrationTop .canadaImigrationTop_container {
+    padding: 30px;
+  }
+  
+  #canadaImigrationTop .canadaImigrationTop_container .canadaImigrationTop_left {
+    padding: 30px 60px;
+    background: #fff;
+    border-radius: 4px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  #canadaImigrationTop .canadaImigrationTop_container .canadaImigrationTop_left .canadaImigrationTop_left_title h4 {
+    font-family: gm;
+    font-size: 14px;
+    color: #242424;
+    text-transform: uppercase;
+  }
+  
+  #canadaImigrationTop .canadaImigrationTop_container .canadaImigrationTop_left .canadaImigrationTop_left_title h1 {
+    font-family: gm;
+    color: #3D3D3D;
+    font-size: 34px;
+    margin-top: 5px;
+  }
+  
+  #canadaImigrationTop .canadaImigrationTop_container .canadaImigrationTop_left .canadaImigrationTop_left_title h1 span {
+    font-family: gm;
+    color: #D23939;
+  }
+  
+  #canadaImigrationTop .canadaImigrationTop_container .canadaImigrationTop_left .canadaImigrationTop_left_title h5 {
+    font-family: gbook;
+    font-size: 14px;
+    color: #242424;
+    margin-top: 5px;
+    width: 85%;
+    line-height: 23px;
+  }
+  
+  #canadaImigrationTop .canadaImigrationTop_container .canadaImigrationTop_left .canadaImigrationTop_left_title .canadaImigrationTop_left_item_container {
+    margin-top: 35px;
+  }
+  
+  #canadaImigrationTop .canadaImigrationTop_container .canadaImigrationTop_left .canadaImigrationTop_left_title .canadaImigrationTop_left_item_container .canadaImigrationTop_left_item h5 {
+    font-family: gm;
+    font-size: 18px;
+    color: #242424;
+  }
+  
+  #canadaImigrationTop .canadaImigrationTop_container .canadaImigrationTop_left .canadaImigrationTop_left_title .canadaImigrationTop_left_item_container .canadaImigrationTop_left_item ul {
+    margin-top: 20px;
+  }
+  
+  #canadaImigrationTop .canadaImigrationTop_container .canadaImigrationTop_left .canadaImigrationTop_left_title .canadaImigrationTop_left_item_container .canadaImigrationTop_left_item ul li {
+    margin-bottom: 20px;
+    font-family: gm;
+    font-size: 13px;
+    color: #242424;
+  }
+  
+  #canadaImigrationTop .canadaImigrationTop_container .canadaImigrationTop_left .canadaImigrationTop_left_title .canadaImigrationTop_left_item_container .canadaImigrationTop_left_item ul li img {
+    margin-right: 10px;
+  }
+  
+  #canadaImigrationTop .canadaImigrationTop_container .canadaImigrationTop_right {
+    width: 116%;
+    margin: 0 auto;
+    display: table;
+  }
+  
+  #canadaImigrationTop .canadaImigrationTop_container .canadaImigrationTop_right .canadaImigrationTop_right_top {
+    position: relative;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 3px;
+  }
+  
+  #canadaImigrationTop .canadaImigrationTop_container .canadaImigrationTop_right .canadaImigrationTop_right_top a {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  #canadaImigrationTop .canadaImigrationTop_container .canadaImigrationTop_right .calcultefeeBtn a {
+    display: block;
+    width: 100%;
+    border: 1px solid #242424;
+    background: #fff;
+    font-family: gm;
+    font-size: 14px;
+    text-align: center;
+    padding: 12px 0px;
+    margin-top: 5px;
+    border-radius: 4px;
+    color: #242424;
+  }
+  
+  #canadaImigrationTop .canadaImigrationTop_container .canadaImigrationTop_right .calcultefeeBtn a:hover {
+    background: #D23939;
+    border-color: #D23939;
+    color: #fff;
+  }
+  
+  #canadaImigrationTop .canadaImigrationTop_container .canadaImigrationTop_right .enroll_btn a {
+    display: block;
+    width: 100%;
+    background: #242424;
+    text-align: center;
+    font-family: gm;
+    font-size: 13px;
+    color: #fff;
+    padding: 15px 0px;
+    border-radius: 4px;
+    margin-top: 5px;
+  }
+  
+  #canadaImigrationTop .canadaImigrationTop_container .canadaImigrationTop_right .enroll_btn a:hover {
+    background: #D23939;
+    color: #fff;
+  }
+  
+  #canadaImigrationMobilebtn {
+    padding-bottom: 40px;
+    overflow: hidden;
+    display: none;
+    background: #fff;
+  }
+  
+  #canadaImigrationMobilebtn .calculateBtn {
+    display: block;
+    width: 90%;
+    margin: 0 auto;
+    padding: 12px 0px;
+    border: 1px solid #242424;
+    color: #242424;
+    text-align: center;
+    font-family: gm;
+    font-size: 14px;
+    border-radius: 4px;
+  }
+  
+  #canadaImigrationMobilebtn .consultionBtn {
+    display: block;
+    width: 100%;
+    padding: 14px 0px;
+    background: #242424;
+    color: #fff;
+    text-align: center;
+    font-family: gm;
+    font-size: 14px;
+    margin-top: 15px;
+  }
+  
+  #weareDifernet {
+    padding: 0px 0px 50px 0px;
+    background: #F9F7F7;
+  }
+  
+  #weareDifernet .weareDifernet_top h3 {
+    font-family: gbold;
+    font-size: 25px;
+    color: #242424;
+  }
+  
+  #weareDifernet .weareDifernet_main {
+    margin-top: 50px;
+  }
+  
+  #weareDifernet .weareDifernet_main .weareDifernet_item h4 {
+    font-family: gm;
+    font-size: 16px;
+    color: #D23939;
+    margin-top: 25px;
+  }
+  
+  #weareDifernet .weareDifernet_main .weareDifernet_item h5 {
+    font-family: gbook;
+    font-size: 12px;
+    color: #242424;
+    line-height: 20px;
+    width: 88%;
+    margin: 0 auto;
+    margin-top: 6px;
+  }
+  
+  #weareDifernet .weareDifernet_main .weareDifernet_item3 {
+    padding-top: 10px;
+  }
+  
+  #weareDifernet .weareDifernet_main .weareDifernet_item3 h4 {
+    margin-top: 35px;
+  }
+  
+  #weareDifernet .weareDifernet_main .weareDifernet_item4 h4 {
+    margin-top: 30px;
+  }
+  
+  #how_works_canada {
+    padding: 50px 0px;
+    background: #fff;
+  }
+  
+  #how_works_canada .how_works_canada_top h3 {
+    font-family: gbold;
+    font-size: 23px;
+    color: #242424;
+  }
+  
+  #how_works_canada .how_works_canada_top p {
+    font-family: gbook;
+    font-size: 14px;
+    color: #686868;
+    margin-top: 6px;
+  }
+  
+  #how_works_canada .how_works_canada_main {
+    margin-top: 30px;
+  }
+  
+  #how_works_canada .how_works_canada_main .how_works_canada_item {
+    border-bottom: 0.5px dashed #7070707c;
+    padding: 50px 0px;
+  }
+  
+  #how_works_canada .how_works_canada_main .how_works_canada_item .how_works_canada_item_img {
+    position: relative;
+  }
+  
+  #how_works_canada .how_works_canada_main .how_works_canada_item .how_works_canada_item_img .number {
+    position: absolute;
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    background: #242424;
+    font-family: gblack;
+    color: #fff;
+    text-align: center;
+    line-height: 30px;
+    border-radius: 50%;
+    left: -14px;
+    top: 10px;
+    font-size: 14px;
+  }
+  
+  #how_works_canada .how_works_canada_main .how_works_canada_item .how_works_canada_item_img .number:after {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    height: 117px;
+    width: 1px;
+    border: 0.5px dashed #7070707c;
+    content: "";
+    top: 100%;
+  }
+  
+  #how_works_canada .how_works_canada_main .how_works_canada_item .how_works_canada_item_img .number_2 {
+    right: -15px !important;
+    left: inherit;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  
+  #how_works_canada .how_works_canada_main .how_works_canada_item .how_works_canada_item_img .number_2:after {
+    height: 90px;
+  }
+  
+  #how_works_canada .how_works_canada_main .how_works_canada_item .how_works_canada_item_img .number_2:before {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    height: 93px;
+    width: 1px;
+    border: 0.5px dashed #7070707c;
+    content: "";
+    top: -91px;
+  }
+  
+  #how_works_canada .how_works_canada_main .how_works_canada_item .how_works_canada_item_img .number_3 {
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  
+  #how_works_canada .how_works_canada_main .how_works_canada_item .how_works_canada_item_img .number_3:after {
+    height: 90px;
+  }
+  
+  #how_works_canada .how_works_canada_main .how_works_canada_item .how_works_canada_item_img .number_3:before {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    height: 90px;
+    width: 1px;
+    border: 0.5px dashed #7070707c;
+    content: "";
+    top: -91px;
+  }
+  
+  #how_works_canada .how_works_canada_main .how_works_canada_item .how_works_canada_item_img .number_4 {
+    right: -15px !important;
+    left: inherit;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  
+  #how_works_canada .how_works_canada_main .how_works_canada_item .how_works_canada_item_img .number_4:after {
+    display: none;
+  }
+  
+  #how_works_canada .how_works_canada_main .how_works_canada_item .how_works_canada_item_img .number_4:before {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    height: 76px;
+    width: 1px;
+    border: 0.5px dashed #7070707c;
+    content: "";
+    top: -77px;
+  }
+  
+  #how_works_canada .how_works_canada_main .how_works_canada_item .how_works_canada_item_text {
+    padding-left: 40px;
+    padding-top: 10px;
+  }
+  
+  #how_works_canada .how_works_canada_main .how_works_canada_item .how_works_canada_item_text h4 {
+    font-family: gm;
+    font-size: 16px;
+    color: #242424;
+    margin-bottom: 10px;
+  }
+  
+  #how_works_canada .how_works_canada_main .how_works_canada_item .how_works_canada_item_text p {
+    font-family: gbook;
+    font-size: 13px;
+    color: #686868;
+    margin-top: 4px;
+    width: 90%;
+  }
+  
+  #how_works_canada .how_works_canada_main .how_works_canada_item .how_works_item_text_2 {
+    padding-left: 90px !important;
+  }
+  
+  #how_works_canada .how_work_canada_bottom {
+    margin-top: 40px;
+  }
+  
+  #how_works_canada .how_work_canada_bottom .how_work_canada_bottom_content img {
+    margin-bottom: 15px;
+  }
+  
+  #how_works_canada .how_work_canada_bottom .how_work_canada_bottom_content h3 {
+    font-family: gm;
+    font-size: 18px;
+    color: #242424;
+  }
+  
+  #how_works_canada .how_work_canada_bottom .how_work_canada_bottom_content p {
+    font-family: gbook;
+    font-size: 13px;
+    color: #484848;
+    line-height: 20px;
+    width: 55%;
+    margin: 0 auto;
+    margin-top: 10px;
+  }
+  
+  #success_stories_canada {
+    padding: 50px 0px;
+    background: #F9F7F7;
+  }
+  
+  #success_stories_canada .stories_canada_top h3 {
+    font-family: gbold;
+    font-size: 23px;
+    color: #242424;
+  }
+  
+  #success_stories_canada .stories_canada_top p {
+    font-family: gbook;
+    font-size: 14px;
+    color: #686868;
+    margin-top: 6px;
+  }
+  
+  #success_stories_canada .success_stories_canada_main_container {
+    margin-top: 50px;
+  }
+  
+  #success_stories_canada .success_stories_canada_main_container .success_stories_canada_item a {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  #success_stories_canada .success_stories_canada_main_container .success_stories_canada_item .info_bottom {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 30px;
+  }
+  
+  #success_stories_canada .success_stories_canada_main_container .success_stories_canada_item .info_bottom h5 {
+    font-family: gm;
+    font-size: 18px;
+    color: #fff;
+  }
+  
+  #success_stories_canada .success_stories_canada_main_container .success_stories_canada_item .info_bottom p {
+    font-family: gbook;
+    font-size: 13px;
+    color: #fff;
+    margin-top: 3px;
+  }
+  
+  #success_stories_canada .success_stories_canada_main_container .stories_canada_button {
+    margin-top: 50px;
+  }
+  
+  #success_stories_canada .success_stories_canada_main_container .stories_canada_button a {
+    display: inline-block;
+    font-family: gm;
+    font-size: 13px;
+    color: #242424;
+    border: 1px solid #242424;
+    padding: 15px 60px;
+    border-radius: 4px;
+    background: #fff;
+  }
+  
+  #success_stories_canada .success_stories_canada_main_container .stories_canada_button a:hover {
+    background: #242424;
+    color: #fff;
+    transform: translateY(-4px);
+  }
+  
+  #canad_calculator {
+    padding: 70px 0px;
+    background: #fff;
+  }
+  
+  #canad_calculator .canad_calculator_top h3 {
+    font-family: gbold;
+    font-size: 24px;
+    color: #242424;
+  }
+  
+  #canad_calculator .canad_calculator_top p {
+    font-family: gbook;
+    font-size: 14px;
+    color: #686868;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 10px;
+  }
+  
+  #canad_calculator .canad_calculator_Main {
+    width: 60%;
+    padding: 20px;
+    background: #FFF1F1;
+    margin: 0 auto;
+    margin-top: 50px;
+    position: relative;
+    padding-bottom: 65px;
+    border-radius: 4px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+  }
+  
+  #canad_calculator .canad_calculator_Main .calulator_btn {
+    position: absolute;
+    bottom: -80px;
+    left: 0;
+    width: 100%;
+    text-align: center;
+  }
+  
+  #canad_calculator .canad_calculator_Main .calulator_btn a {
+    display: inline-block;
+    padding: 13px 90px;
+    background: #fff;
+    color: #242424;
+    font-family: gm;
+    font-size: 13px;
+    border: 1px solid #242424;
+    border-radius: 4px;
+  }
+  
+  #canad_calculator .canad_calculator_Main .calulator_btn a:hover {
+    background: #242424;
+    color: #fff;
+  }
+  
+  #canad_calculator .canad_calculator_Main .calculatorInput h3 {
+    font-family: gbold;
+    font-size: 18px;
+    color: #D23939;
+  }
+  
+  #canad_calculator .canad_calculator_Main .calculatorInput .counter {
+    margin-top: 20px;
+  }
+  
+  #canad_calculator .canad_calculator_Main .calculatorInput .number-input {
+    background: #F6F6F6 !important;
+    border: none !important;
+    height: 38px;
+    width: 40px !important;
+    border-radius: 4px;
+    font-family: gbold;
+    font-size: 14px !important;
+    position: relative;
+    left: 5px;
+    box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.2);
+  }
+  
+  #canad_calculator .canad_calculator_Main .calculatorInput .decrementer {
+    background: transparent !important;
+    width: 20px !important;
+    height: 20px !important;
+    text-align: center !important;
+    line-height: 20px !important;
+    color: #707070 !important;
+    border: none !important;
+    padding-top: 0px !important;
+    font-family: gbook;
+  }
+  
+  #canad_calculator .canad_calculator_Main .calculatorInput .incrementer {
+    background: transparent !important;
+    width: 20px !important;
+    height: 20px !important;
+    text-align: center !important;
+    line-height: 20px !important;
+    color: #707070 !important;
+    border: none !important;
+    padding-top: 0px !important;
+    font-family: gbook;
+  }
+  
+  #canad_calculator .canada_calculator_result {
+    margin-top: 30px;
+  }
+  
+  #canad_calculator .canada_calculator_result h3 {
+    background: #fff;
+    box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+    width: 25%;
+    padding: 16px 0px;
+    font-family: gbold;
+    font-size: 22px;
+    color: #242424;
+    border-radius: 4px;
+  }
+  
+  #canad_calculator .canada_calculator_result a {
+    display: inline-block;
+    padding: 16px 105px;
+    background: #242424;
+    color: #fff;
+    font-family: gm;
+    font-size: 13px;
+    border-radius: 4px;
+    margin-top: 15px;
+  }
+  
+  #canad_calculator .canada_calculator_result a:hover {
+    background: #D23939;
+    color: #fff;
+  }
+  
+  #canad_calculator .canada_calculator_recomeded {
+    margin-top: 50px;
+  }
+  
+  #canad_calculator .canada_calculator_recomeded .canada_calculator_recomededTop h3 {
+    font-family: gbold;
+    font-size: 23px;
+    color: #242424;
+  }
+  
+  #canad_calculator .canada_calculator_recomeded .canada_calculator_recomededitem_main {
+    margin-top: 40px;
+  }
+  
+  #canad_calculator .canada_calculator_recomeded .canada_calculator_recomededitem_main .canada_calculator_recomededitem {
+    background: #fff;
+    padding: 20px 20px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+  }
+  
+  #canad_calculator .canada_calculator_recomeded .canada_calculator_recomededitem_main .canada_calculator_recomededitem .canada_calculator_recomededitemContent h3 {
+    font-family: gm;
+    font-size: 23px;
+    color: #242424;
+    text-transform: uppercase;
+  }
+  
+  #canad_calculator .canada_calculator_recomeded .canada_calculator_recomededitem_main .canada_calculator_recomededitem .canada_calculator_recomededitemContent p {
+    font-family: gbook;
+    font-size: 14px;
+    width: 80%;
+    margin-top: 8px;
+  }
+  
+  #canad_calculator .canada_calculator_recomeded .canada_calculator_recomededitem_main .canada_calculator_recomededitem .canada_calculator_recomededitemContent h5 {
+    font-family: gbook;
+    font-size: 18px;
+    color: #242424;
+    margin-top: 10px;
+  }
+  
+  #canad_calculator .canada_calculator_recomeded .canada_calculator_recomededitem_main .canada_calculator_recomededitem .canada_calculator_recomededitemContent h5 span {
+    font-family: gm;
+  }
+  
+  #canad_calculator .canada_calculator_recomeded .canada_calculator_recomededitem_main .canada_calculator_recomededitem .canada_calculator_recomededitem_btn a {
+    display: inline-block;
+    padding: 12px 40px;
+    border: 1px solid #242424;
+    font-family: gm;
+    font-size: 14px;
+    border-radius: 4px;
+  }
+  
+  #canad_calculator .canada_calculator_recomeded .canada_calculator_recomededitem_main .canada_calculator_recomededitem .canada_calculator_recomededitem_btn a:hover {
+    background: #242424;
+    color: #fff;
+    transform: translateY(-4px);
+  }
+  
+  #canadaInfobottom {
+    padding: 50px 0px;
+    background: #FFF1F1;
+  }
+  
+  #canadaInfobottom .canadaInfobottom_content h3 {
+    font-family: gm;
+    font-size: 22px;
+    color: #242424;
+  }
+  
+  #canadaInfobottom .canadaInfobottom_content a {
+    display: inline-block;
+    padding: 12px 70px;
+    border: 1px solid #242424;
+    font-family: gm;
+    font-size: 14px;
+    border-radius: 4px;
+    margin-top: 20px;
+    background: #242424;
+    color: #fff;
+  }
+  
+  #canadaInfobottom .canadaInfobottom_content a:hover {
+    background: #D23939;
+    border-color: #D23939;
+    color: #fff;
+    transform: translateY(-4px);
+  }
+  
+  #detaild_faq {
+    padding: 50px 0px;
+    background: #fff;
+  }
+  
+  #detaild_faq .detaild_faq_top h3 {
+    font-family: gbold;
+    font-size: 20px;
+    color: #242424;
+  }
+  
+  #detaild_faq .detild_faq_container {
+    margin-top: 30px;
+  }
+  
+  #detaild_faq .detild_faq_container .mb-0 button:after {
+    content: "";
+    font-family: "Font Awesome 5 Pro";
+    float: right;
+    font-size: 19px;
+    color: #A6A6A6;
+  }
+  
+  #detaild_faq .detild_faq_container .mb-0 button[aria-expanded="true"]:after {
+    content: "\f106";
+  }
+  
+  #detaild_faq .detild_faq_container .mb-0 button[aria-expanded="false"]:after {
+    content: "\f107";
+  }
+  
+  #detaild_faq .detild_faq_container .accordion {
+    margin-top: 10px;
+  }
+  
+  #detaild_faq .detild_faq_container .accordion .card {
+    border: none;
+    background: transparent;
+    padding: 0px;
+  }
+  
+  #detaild_faq .detild_faq_container .accordion .card .card-header {
+    border: none;
+    background: #FFF;
+    padding: 0px;
+  }
+  
+  #detaild_faq .detild_faq_container .accordion .card .card-header button {
+    font-family: gm;
+    font-size: 14px;
+    color: rgba(26, 26, 26, 0.712);
+    outline: none;
+    text-decoration: none;
+    display: block;
+    width: 100%;
+    text-align: left;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-bottom: 2px solid #70707023;
+  }
+  
+  #detaild_faq .detild_faq_container .accordion .card .card-body {
+    padding: 5px 20px;
+    padding-bottom: 20px;
+  }
+  
+  #detaild_faq .detild_faq_container .accordion .card .card-body p {
+    font-family: gm;
+    font-size: 13px;
+    color: #3F3F3F;
+  }
+  
+  #detaild_faq .detild_faq_container .accordion .card .collapse.show {
+    background: #F7F7F7;
+    border-radius: 0px 0px 4px 4px;
+    padding-top: 0px !important;
+  }
+  
+  #detaild_faq .detild_faq_container .accordion .card .collapse.show .card-body {
+    padding-top: 0px !important;
+  }
+  
+  #detaild_faq .detild_faq_container .mb-0 button[aria-expanded="true"] {
+    background: #F7F7F7;
+    padding-bottom: 0px;
+    color: #3F3F3F !important;
+    padding-top: 15px;
+    padding-left: 20px;
+    border-radius: 4px 4px 0px 0px;
+    padding-top: 15px !important;
+    padding-bottom: 0px !important;
+    border-bottom: none !important;
+    margin-top: 10px !important;
+  }
+  
+  #detaild_faq .detaild_faq_button {
+    margin-top: 40px;
+  }
+  
+  #detaild_faq .detaild_faq_button a {
+    display: inline-block;
+    font-family: gm;
+    font-size: 13px;
+    color: #242424;
+    border: 1px solid #242424;
+    padding: 11px 80px;
+    border-radius: 4px;
+    background: #fff;
+  }
+  
+  #detaild_faq .detaild_faq_button a:hover {
+    background: #242424;
+    transform: translateY(-4px);
+    color: #fff;
+  }
+  

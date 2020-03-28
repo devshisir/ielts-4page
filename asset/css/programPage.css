@@ -1,0 +1,65 @@
+/*-- start program main area --*/
+#progrmaMain {
+    padding: 50px 0px;
+    background: #fff;
+  }
+  
+  #progrmaMain .progrmaMainContiner>h3 {
+    font-family: gbold;
+    color: #D23939;
+    text-transform: uppercase;
+    font-size: 28px;
+  }
+  
+  #progrmaMain .progrmaMainContiner .programItemManContaier {
+    margin-top: 50px;
+  }
+  
+  #progrmaMain .progrmaMainContiner .programItemManContaier .programMainItem {
+    box-shadow: 0px 1px 7px rgba(0, 0, 0, 0.2);
+    padding: 35px 20px;
+    border-radius: 7px;
+    margin-bottom: 30px;
+  }
+  
+  #progrmaMain .progrmaMainContiner .programItemManContaier .programMainItem .programMainItemContent {
+    padding-left: 10px;
+  }
+  
+  #progrmaMain .progrmaMainContiner .programItemManContaier .programMainItem .programMainItemContent h4 {
+    font-family: gm;
+    font-size: 20px;
+    color: #242424;
+  }
+  
+  #progrmaMain .progrmaMainContiner .programItemManContaier .programMainItem .programMainItemContent p {
+    font-family: gbook;
+    font-size: 14px;
+    color: #242424;
+    line-height: 22px;
+    margin-top: 4px;
+    width: 90%;
+  }
+  
+  #progrmaMain .progrmaMainContiner .programItemManContaier .programMainItem .programMainItemBtn a {
+    display: block;
+    width: 100%;
+    text-align: center;
+    border: 1px solid #242424d8;
+    font-family: gm;
+    font-size: 14px;
+    color: #242424;
+    padding: 12px 0px;
+    border-radius: 4px;
+    position: relative;
+    right: 50px;
+  }
+  
+  #progrmaMain .progrmaMainContiner .programItemManContaier .programMainItem .programMainItemBtn a:hover {
+    background: #D23939;
+    border-color: #D23939;
+    color: #fff;
+    transform: translateY(-4px);
+    box-shadow: 0px 1px 7px rgba(0, 0, 0, 0.2);
+  }
+  
